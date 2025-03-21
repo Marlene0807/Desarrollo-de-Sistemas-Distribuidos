@@ -16,7 +16,6 @@ public class Tortuga {
             String mensaje;
             while ((mensaje = input.readLine()) != null) {
                 System.out.println(mensaje);
-                // Aquí puedes añadir lógica para simular el comportamiento de la tortuga, por ejemplo, moverla
             }
 
         } catch (IOException e) {
